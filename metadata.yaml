@@ -1,0 +1,31 @@
+_repo: The-Art-of-Living_53040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, Robert
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '2515'
+    url: http://www.gutenberg.org/2009/agents/2515
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
+description: ''
+gutenberg_issued: '2016-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53040'
+  lccn: '99004206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Home economics'
+- !lcsh 'Life skills'
+- !lcsh 'Quality of life'
+- GITenberg
+tableOfContents: Income -- The dwelling -- House-furnishing and the commissariat --
+  Education -- Occupation -- The use of time -- The summer problem -- The case of
+  man -- The case of woman -- The conduct of life.
+title: The Art of Living
+url: http://www.gutenberg.org/ebooks/53040
